@@ -86,6 +86,20 @@ header nav a:hover{
     margin-right: 8px;
 }
 
+.botao a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.botao a:hover{
+    color: black;
+}
+
+.botao a:visited{
+    color: inherit;
+}
+
 .container{
     margin-left: 20px;
 }
